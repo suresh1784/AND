@@ -22,17 +22,17 @@ public class BinarySearch {
 
     static int findMin(int[] arr, int start, int end){
         int mid = (start+end)/2;
-        if (start>end){
+        if (start>=end){
             return start;
         }
 
         if (arr[mid]> arr[end]){
             return findMin(arr, mid+1, end);
         }else {
-            return findMin(arr, start, mid-1);
+            return findMin(arr, start, mid);
         }
     }
-
+//https://leetcode.com/problems/search-in-rotated-sorted-array-ii/discuss/28275/2-concise-Java-Solution%3A-iterative-and-recursive
    static int rotatedBinarySearch(int[] arr, int left, int right, int key){
 
 
@@ -57,6 +57,13 @@ public class BinarySearch {
             return  rotatedBinarySearch(arr,mid, right, key);
         }else {
             left++ ; // or right-- // for duplicates
+            // this is the logic required
+//            if(nums[low]==nums[mid] && nums[mid]==nums[high])
+//                return search(nums, target, low+1, mid-1) || search(nums, target, mid+1, high-1);
+//            if(nums[low]==nums[mid])
+//                return search(nums, target, mid+1, high);
+//            if(nums[mid]==nums[high])
+//                return search(nums, target, low, mid-1);
         }
       return -1;
    }
@@ -66,15 +73,16 @@ public class BinarySearch {
     public static void main(String[] args){
         int[] arr = {1,2,3,4,6,8,9};
         int[] rotatedArr = {7,8,9,1,2,3,4,5,6};
+      //  int[] rotatedArr = {5,6,7,1,2,3,4};
 //        for (int i : arr){
 //            System.out.println(binarySearch(arr, 0, arr.length-1, i));
 //        }
 //
-        for (int i : rotatedArr){
-            System.out.println(rotatedBinarySearch(rotatedArr, 0, rotatedArr.length-1, i));
-        }
+//        for (int i : rotatedArr){
+//            System.out.println(rotatedBinarySearch(rotatedArr, 0, rotatedArr.length-1, i));
+//        }
 
-   //     System.out.println(rotatedArr[findMin(rotatedArr, 0 , rotatedArr.length-1)]);
+        System.out.println(rotatedArr[findMin(rotatedArr, 0 , rotatedArr.length-1)]);
 
     }
 

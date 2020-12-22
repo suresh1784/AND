@@ -48,11 +48,11 @@ public class Serialize {
         if (s.equals("#")){
             return null;
         }
-    //    TreeNode left = recursive(s1);
-    //    TreeNode right = recursive(s1);
+        TreeNode left = recursive(s1);
+        TreeNode right = recursive(s1);
         TreeNode result = new TreeNode(Integer.parseInt(s));
-        result.left = recursive(s1);
-        result.right = recursive(s1);
+        result.left = left ; //recursive(s1);
+        result.right = right ; // recursive(s1);
 
         return result;
 

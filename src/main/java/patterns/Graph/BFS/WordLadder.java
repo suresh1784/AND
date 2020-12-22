@@ -2,7 +2,7 @@ package patterns.Graph.BFS;
 
 import java.util.*;
 
-public class WordBreak {
+public class WordLadder {
 
     public static class Word{
         int length;
@@ -27,8 +27,9 @@ public class WordBreak {
             }
 
             for (int i = 0 ; i <top.str.length(); i++) {
-                for (int ch = 0; ch < 26; ch++) {
-                    char newCh = (char) (ch+'a');
+                for (char ch = 'a'; ch < 'z'; ch++) {
+                   // char newCh = (char) (ch+'a');
+                    char newCh = ch;
                     String newWord = s.substring(0, i)+newCh+ s.substring(i+1);
 
                     if (set.remove(newWord)) {

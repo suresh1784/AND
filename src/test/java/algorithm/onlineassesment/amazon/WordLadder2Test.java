@@ -9,7 +9,7 @@ import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.collection.IsIterableContainingInAnyOrder.containsInAnyOrder;
 
 import java.util.*;
-class WordBreak2Test {
+class WordLadder2Test {
     WordBreak2 wordBreak2 = new WordBreak2();
     @Test
     void wordBreak() {

@@ -29,412 +29,73 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81046d18-1524-48a7-8723-c71a3188a2ce" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_all_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_launcher_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_runner_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_suite_api_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/fb/Arrays/AreTheyEqual.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/fb/Arrays/CountSubarrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/fb/Arrays/PairSums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/fb/Arrays/RotationalCipher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/CanMakeArithmeticProgression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/CheckSubarraySum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/ConsecutiveNumbersSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/CountOdds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/DeleteNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/FindSmallestSetOfVertices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/GetMaxLen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/IntervalIntersection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/IsPossibleDivide.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/IsTransformable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/LeastInterval.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/LongestRepeatingSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/MakeGood.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/MaxNonOverlapping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/MaxNumOfSubstrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/MaxProbability.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/MaxProductPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/MaxSumTwoNoOverlap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/MaxUniqueSplit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/MaximumRequests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/MinCost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/MinCost1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/MinInsertions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/MinInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/MinKnightMoves.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/MinOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/MinOperations1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/MinRemoveToMakeValid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/MinSumOfLengths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/NumOfSubarrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/NumSplits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/NumSub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/NumSubmat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/NumTriplets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/NumWaterBottles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/PrintVertically.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/QueensAttacktheKing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/RangeSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/ShortestSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/StoneGameII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/StringCompression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/ThousandSeparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/UniqueFileName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/_552.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/_792.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/algorithm/leetcode/GetMaxLenTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/algorithm/leetcode/IsPossibleDivideTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/algorithm/leetcode/IsTransformableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/algorithm/leetcode/LeastIntervalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/algorithm/leetcode/LongestRepeatingSubstringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/algorithm/leetcode/MaxNonOverlappingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/algorithm/leetcode/MaxProbabilityTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/algorithm/leetcode/MaxProductPathTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/algorithm/leetcode/MaxSumTwoNoOverlapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/algorithm/leetcode/MaximumRequestsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/algorithm/leetcode/MinRemoveToMakeValidTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/algorithm/leetcode/NumOfSubarraysTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/algorithm/leetcode/NumSplitsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/algorithm/leetcode/NumSubmatTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/algorithm/leetcode/QueensAttacktheKingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/algorithm/leetcode/RangeSumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/algorithm/leetcode/StringCompressionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/algorithm/leetcode/UniqueFileNameTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/Codesignal/RotateImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/backtracking/RemoveInvalidParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/fb/Heap/FindMaxProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/fb/Heap/MaxCandies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/fb/greedy/FindMinArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/fb/greedy/GetTotalTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/fb/recursion/CoinChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/fb/recursion/FindEncryptedWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/ArrayStringsAreEqual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/BeautyMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/CanMakePalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/CountVowelStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/DecodeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/FetchItemsToDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/FurthestBuilding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/GetMaximumGenerated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/GroupBy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/Interpret.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/LongestArithSeqLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/MaxOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/MaxProfit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/MaximumUniqueSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/MinDeletions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/MinOperationsV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/MinimumEffort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/MinimumIncompatibility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/MostCompetitive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/PerfectCity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/PhoneCalls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/PrefixPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/RotateMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/TestEditor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/TwoCityScheduling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/WaysToMakeFair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/fareEstimator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/isPossibleTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/onlineassesment/amazon/WordBreak1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/patterns/BinarySearch/FindFirstLastPositionSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/patterns/DFS/leetcode/FindItinerary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/patterns/Graph/TopologigalSort/CourseScheduleII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/patterns/MergeIntervals/MeetingScheduler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/patterns/Multithread/FizzBuzz/MainThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/patterns/Multithread/FizzBuzz/MultithreadedFizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/patterns/Multithread/PrintFooBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/patterns/Multithread/SingleThreadedMergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/patterns/Multithread/WordCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/patterns/calculator/BasicCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/patterns/calculator/BasicCalculatorII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/patterns/calculator/BasicCalculatorIII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/algorithm/leetcode/MinMoves.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/hakerrank/recursion/ArithmeticExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/hakerrank/recursion/ArithmeticExpression.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/hakerrank/recursion/CrosswordPuzzle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/hakerrank/recursion/CrosswordPuzzle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/hakerrank/recursion/DigitSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/hakerrank/recursion/DigitSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/hakerrank/recursion/PasswordCraker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/hakerrank/recursion/PasswordCraker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/hakerrank/recursion/PowerSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/hakerrank/recursion/PowerSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/indeed/FrequentElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/indeed/FrequentElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/indeed/Reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/indeed/Reverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/indeed/SummaryRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/indeed/SummaryRange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/_50.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/_796.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/leetcode/_796.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/recursion/EditDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/recursion/EditDistance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/recursion/LCS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/recursion/LCS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/recursion/LCSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/recursion/LCSubstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/recursion/LPS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/recursion/LPS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/recursion/LinkList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/recursion/LinkList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/recursion/NQueenProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/recursion/NQueenProblem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/recursion/OneEdit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/recursion/OneEdit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/recursion/RecursiveNQueens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/recursion/RecursiveNQueens.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/recursion/Reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/recursion/Reverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/recursion/SubsetSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/recursion/SubsetSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/recursion/tree/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/recursion/tree/BinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/veeva/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/veeva/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/MyProject.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/Rally/StringAddition.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/Rally/StringAddition.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/Result.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/Result.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/Square/GameOfStones.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/Square/GameOfStones.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/Square/SearchCats$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/Square/SearchCats$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/Square/SearchCats.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/Square/SearchCats.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/backtracking/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/backtracking/Calculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/backtracking/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/backtracking/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/backtracking/SubSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/backtracking/SubSet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/backtracking/WordLadder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/backtracking/WordLadder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/backtracking/n_queens.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/backtracking/n_queens.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/backtracking/sudokuList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/backtracking/sudokuList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/broadcom/LongCompression.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/broadcom/LongCompression.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/educative/arrays/findLowHigh.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/educative/arrays/findLowHigh.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/educative/arrays/maxSlidingWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/educative/arrays/maxSlidingWindow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/educative/arrays/rotateArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/educative/arrays/rotateArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/graph/FenwickTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/graph/FenwickTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/graph/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/graph/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/graph/SegmentTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/graph/SegmentTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/graph/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/graph/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/graph/Trie.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/graph/Trie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/graph/UnionFind.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/graph/UnionFind.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/graph/UnionFindKru.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/graph/UnionFindKru.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/graph/bfs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/graph/bfs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/graph/ch2_08_unionfind_ds.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/graph/ch2_08_unionfind_ds.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/graph/dfs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/graph/dfs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/graph/dijkstra$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/graph/dijkstra$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/graph/dijkstra.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/graph/dijkstra.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/graph/kruskal_prim.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/graph/kruskal_prim.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/graph/practice/NumberOfIsland$UnionFind.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/graph/practice/NumberOfIsland$UnionFind.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/graph/practice/NumberOfIsland.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/graph/practice/NumberOfIsland.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/hakerrank/recursion/CrosswordPuzzle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/hakerrank/recursion/CrosswordPuzzle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/hakerrank/recursion/DigitSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/hakerrank/recursion/DigitSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/hakerrank/recursion/PasswordCraker.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/hakerrank/recursion/PasswordCraker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/heap/MergeSortedArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/heap/MergeSortedArrays.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/heap/priority_queue$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/heap/priority_queue$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/heap/priority_queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/heap/priority_queue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/hired/FirstCharacter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/hired/FirstCharacter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/hired/NoRepeatSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/hired/NoRepeatSubstring.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/indeed/FrequentElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/indeed/FrequentElement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/indeed/Reverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/indeed/Reverse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/indeed/SummaryRange.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/indeed/SummaryRange.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/karat/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/karat/Calculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/karat/Family.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/karat/Family.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/karat/Friends.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/karat/Friends.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/karat/MaxAreaRectangleMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/karat/MaxAreaRectangleMatrix.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/karat/MaximumRectagleHistogram.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/karat/MaximumRectagleHistogram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/karat/StreamChecker.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/karat/StreamChecker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/karat/StudentCourse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/karat/StudentCourse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/karat/Trie.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/karat/Trie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/karat/URL.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/karat/URL.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/leetcode/AddBinary.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/leetcode/AddBinary.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/leetcode/Bigram.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/leetcode/Bigram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/leetcode/Bst2Gst.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/leetcode/Bst2Gst.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/leetcode/CheckInclusion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/leetcode/CheckInclusion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/leetcode/ColorABorder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/leetcode/ColorABorder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/leetcode/Escape$Coordinates.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/leetcode/Escape$Coordinates.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/leetcode/Escape.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/leetcode/Escape.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/leetcode/FrogsCroaking.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/leetcode/FrogsCroaking.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/leetcode/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/leetcode/HelloWorld.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/leetcode/IsAlienSorted.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/leetcode/IsAlienSorted.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/leetcode/LargestValsFromLabels.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/leetcode/LargestValsFromLabels.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/leetcode/LastStoneWeight.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/leetcode/LastStoneWeight.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/leetcode/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/leetcode/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/leetcode/LongestStrChain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/leetcode/LongestStrChain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/leetcode/MaxSlidingWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/leetcode/MaxSlidingWindow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/leetcode/NumSmallerByFrequency.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/leetcode/NumSmallerByFrequency.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/leetcode/RankTeam.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/leetcode/RankTeam.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/leetcode/ReformatString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/leetcode/ReformatString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/leetcode/RomanToInt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/leetcode/RomanToInt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/leetcode/SmallestSubsequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/leetcode/SmallestSubsequence.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/leetcode/SplitAString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/leetcode/SplitAString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/leetcode/UndergroundSystem$Station.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/leetcode/UndergroundSystem$Station.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/leetcode/UndergroundSystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/leetcode/UndergroundSystem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/leetcode/_1392_RollingHash.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/leetcode/_1392_RollingHash.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/leetcode/_384.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/leetcode/_384.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/leetcode/_50.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/leetcode/_5195.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/leetcode/_5195.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/leetcode/_5231$Trie.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/leetcode/_5231$Trie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/leetcode/_5231.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/leetcode/_5231.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/leetcode/_5257.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/leetcode/_5257.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/leetcode/_5272.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/leetcode/_5272.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/leetcode/_5274.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/leetcode/_5274.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/leetcode/_5280.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/leetcode/_5280.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/leetcode/_5282.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/leetcode/_5282.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/leetcode/_5303.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/leetcode/_5303.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/leetcode/_5305.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/leetcode/_5305.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/leetcode/_5332.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/leetcode/_5332.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/leetcode/_5333.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/leetcode/_5333.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/leetcode/_5344.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/leetcode/_5344.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/leetcode/_5352.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/leetcode/_5352.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/leetcode/_5354.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/leetcode/_5354.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/leetcode/_5366.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/leetcode/_5366.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/leetcode/_5368.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/leetcode/_5368.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/leetcode/_5376.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/leetcode/_5376.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/leetcode/_5379.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/leetcode/_5379.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/leetcode/_5382.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/leetcode/_5382.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/leetcode/_5383.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/leetcode/_5383.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/leetcode/shortestPathBinaryMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/leetcode/shortestPathBinaryMatrix.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/multithread/PC.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/multithread/PC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/multithread/ProducerConsumer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/multithread/ProducerConsumer$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/multithread/ProducerConsumer$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/multithread/ProducerConsumer$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/multithread/ProducerConsumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/multithread/ProducerConsumer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/AverageBinaryNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/AverageBinaryNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/BasicCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/BasicCalculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/CombinationalSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/CombinationalSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/ConcatenatedWords$Trie.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/ConcatenatedWords$Trie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/ConcatenatedWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/ConcatenatedWords.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/ConnectSticks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/ConnectSticks.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/CriticalConnections.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/CriticalConnections.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/FavoriteGenre.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/FavoriteGenre.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/FileSystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/FileSystem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/FindPair.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/FindPair.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/KDistanceApart.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/KDistanceApart.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/LCA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/LCA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/LinuxFileSystem$AndFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/LinuxFileSystem$AndFilter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/LinuxFileSystem$FileNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/LinuxFileSystem$FileNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/LinuxFileSystem$NotFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/LinuxFileSystem$NotFilter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/LinuxFileSystem$OrFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/LinuxFileSystem$OrFilter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/LinuxFileSystem$SizeFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/LinuxFileSystem$SizeFilter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/LinuxFileSystem$TxtFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/LinuxFileSystem$TxtFilter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/LinuxFileSystem$XmlFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/LinuxFileSystem$XmlFilter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/LinuxFileSystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/LinuxFileSystem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/LoadBalancer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/LoadBalancer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/LongestHappyString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/LongestHappyString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/LongestSubStringVowels.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/LongestSubStringVowels.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/MaximumMinimumPath.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/MaximumMinimumPath.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/Maze.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/Maze.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/MinConnectingCities$UnionFind1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/MinConnectingCities$UnionFind1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/MinConnectingCities.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/MinConnectingCities.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/MinCostToRepair$UnionFind.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/MinCostToRepair$UnionFind.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/MinCostToRepair.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/MinCostToRepair.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/MinNumAnagramSwap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/MinNumAnagramSwap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/NumberToWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/NumberToWords.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/NumberofIslands.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/NumberofIslands.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/OptimalUtilization.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/OptimalUtilization.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/OrangesRotting.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/OrangesRotting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/PalindromePartitioning.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/PalindromePartitioning.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/PartitionLabels.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/PartitionLabels.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/ReorderLogFiles.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/ReorderLogFiles.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/ReorganizeString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/ReorganizeString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/SearchMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/SearchMatrix.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/SearchSuggestions$Trie.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/SearchSuggestions$Trie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/SearchSuggestions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/SearchSuggestions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/SlidingWindowMaximum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/SlidingWindowMaximum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/SpiralMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/SpiralMatrix.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/StringKSizeKChars.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/StringKSizeKChars.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/SubarraysWithKDistinct.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/SubarraysWithKDistinct.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/TimeofFunctions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/TimeofFunctions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/TopKFreq.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/TopKFreq.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/TreasureIsland.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/TreasureIsland.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/UnionFind.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/UnionFind.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/WebsitePattern.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/WebsitePattern.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/fb/stacks/IsBalanced.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/fb/stacks/IsBalanced.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/onlineassesment/amazon/WordBreak2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/onlineassesment/amazon/WordBreak2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/recursion/tree/Serialize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/recursion/tree/Serialize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/BinarySearch/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/patterns/BinarySearch/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/DynamicProgramming/leetcode/LongestArithSeqLength_1027.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/patterns/DynamicProgramming/leetcode/LongestArithSeqLength_1027.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/Graph/BFS/WordBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/patterns/Graph/BFS/WordLadder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/patterns/Graph/Trie/Trie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/patterns/Graph/Trie/Trie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/algorithm/onlineassesment/amazon/WordBreak2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/algorithm/onlineassesment/amazon/WordLadder2Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/WordBreak2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/WordBreak2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/WordLadderII.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/onlineassesment/amazon/WordLadderII.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/recursion/LCSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/recursion/LCSubstring.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/recursion/LPS.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/recursion/LPS.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/recursion/LinkList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/recursion/LinkList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/recursion/NQueenProblem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/recursion/NQueenProblem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/recursion/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/recursion/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/recursion/OneEdit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/recursion/OneEdit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/recursion/PalindromeSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/recursion/PalindromeSubstring.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/recursion/TailRecursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/recursion/TailRecursion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/recursion/tree/BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/recursion/tree/BinaryTree.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/algorithm/recursion/tree/Serialize.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/recursion/tree/Serialize.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/search/CalenderRender.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/search/CalenderRender.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/search/kLargestElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/search/kLargestElement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/sf/Dependency.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/sf/Dependency.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/sf/DependencyV2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/sf/DependencyV2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/sf/DependencyV3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/sf/DependencyV3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/sf/Dependencyv1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/sf/Dependencyv1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/sf/LadderLength.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/sf/LadderLength.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/sf/ReverseWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/sf/ReverseWords.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/sf/ThreeSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/sf/ThreeSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/sort/Invoice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/sort/Invoice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/sort/Radar.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/sort/Radar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/strings/StringManipulation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/strings/StringManipulation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/strings/basic_string.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/strings/basic_string.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/strings/ch6_02_kmp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/strings/ch6_02_kmp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/strings/ch6_04_sa.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/strings/ch6_04_sa.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/veeva/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/veeva/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/other.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/other.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/BFS/LevelOrderSuccessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/BFS/LevelOrderSuccessor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/BFS/MinimumBinaryTreeDepth.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/BFS/MinimumBinaryTreeDepth.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/BFS/RightViewTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/BFS/RightViewTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/BFS/TreeBoundary.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/BFS/TreeBoundary.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/BinarySearch/CeilingOfANumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/BinarySearch/CeilingOfANumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/DFS/DecodeString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/DFS/DecodeString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/DFS/LCAFindSmallestRegion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/DFS/LCAFindSmallestRegion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/DFS/RemoveInvalidParentheses.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/DFS/RemoveInvalidParentheses.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/DFS/TreePathSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/DFS/TreePathSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/DFS/leetcode/CanVisitAllRooms.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/DFS/leetcode/CanVisitAllRooms.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/DFS/leetcode/SumEvenGrandparent$Pair.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/DFS/leetcode/SumEvenGrandparent$Pair.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/DFS/leetcode/SumEvenGrandparent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/DFS/leetcode/SumEvenGrandparent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/DynamicProgramming/Knapsack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/DynamicProgramming/Knapsack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/DynamicProgramming/Pattern5/LongestCommonSubsequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/DynamicProgramming/Pattern5/LongestCommonSubsequence.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/DynamicProgramming/Pattern5/LongestPalindromicSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/DynamicProgramming/Pattern5/LongestPalindromicSubstring.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/DynamicProgramming/leetcode/DecodeWays.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/DynamicProgramming/leetcode/DecodeWays.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/DynamicProgramming/leetcode/JumpGameIII.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/DynamicProgramming/leetcode/JumpGameIII.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/DynamicProgramming/leetcode/RobberTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/DynamicProgramming/leetcode/RobberTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Graph/BFS/WordBreak.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/Graph/BFS/WordBreak.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Graph/LongestIncreasingPathMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/Graph/LongestIncreasingPathMatrix.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Graph/TopologigalSort/AlienDictionary.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/Graph/TopologigalSort/AlienDictionary.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Graph/TopologigalSort/AllTaskSchedulingOrders.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/Graph/TopologigalSort/AllTaskSchedulingOrders.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Graph/TopologigalSort/MinimumHeightTrees.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/Graph/TopologigalSort/MinimumHeightTrees.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Graph/TopologigalSort/SequenceReconstruction.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/Graph/TopologigalSort/SequenceReconstruction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Graph/TopologigalSort/TaskScheduling.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/Graph/TopologigalSort/TaskScheduling.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Graph/TopologigalSort/TopologicalSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/Graph/TopologigalSort/TopologicalSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Graph/TopologigalSort/leetcode/CourseSchedule.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/Graph/TopologigalSort/leetcode/CourseSchedule.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Graph/Trie/Trie.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/Graph/Trie/Trie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Graph/graph/FenwickTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/Graph/graph/FenwickTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Graph/graph/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/Graph/graph/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Graph/graph/SegmentTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/Graph/graph/SegmentTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Graph/graph/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/Graph/graph/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Graph/graph/Trie.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/Graph/graph/Trie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Graph/graph/UnionFind.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/Graph/graph/UnionFind.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Graph/graph/UnionFindKru.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/Graph/graph/UnionFindKru.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Graph/graph/bfs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/Graph/graph/bfs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Graph/graph/ch2_08_unionfind_ds.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/Graph/graph/ch2_08_unionfind_ds.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Graph/graph/dfs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/Graph/graph/dfs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Graph/graph/dijkstra$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/Graph/graph/dijkstra$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Graph/graph/dijkstra.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/Graph/graph/dijkstra.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Graph/graph/kruskal_prim.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/Graph/graph/kruskal_prim.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Graph/graph/practice/NumberOfIsland$UnionFind.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/Graph/graph/practice/NumberOfIsland$UnionFind.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Graph/graph/practice/NumberOfIsland.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/Graph/graph/practice/NumberOfIsland.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Graph/leetcode/MakeConnected$UnionFind.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/Graph/leetcode/MakeConnected$UnionFind.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Graph/leetcode/MakeConnected.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/Graph/leetcode/MakeConnected.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Graph/leetcode/PathsWithMaxScore_5137.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/Graph/leetcode/PathsWithMaxScore_5137.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Heap/MedianOfAStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/Heap/MedianOfAStream.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/InPlaceReversal/ReverseLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/InPlaceReversal/ReverseLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/InPlaceReversal/ReverseSubList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/InPlaceReversal/ReverseSubList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/KwayMerge/KthSmallestInMSortedArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/KwayMerge/KthSmallestInMSortedArrays.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/KwayMerge/LargestPairs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/KwayMerge/LargestPairs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/KwayMerge/MergeKSortedLists.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/KwayMerge/MergeKSortedLists.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/KwayMerge/SmallestRange.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/KwayMerge/SmallestRange.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/MergeIntervals/EmployeeFreeTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/MergeIntervals/EmployeeFreeTime.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/MergeIntervals/InsertInterval.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/MergeIntervals/InsertInterval.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/MergeIntervals/IntervalsIntersection.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/MergeIntervals/IntervalsIntersection.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/MergeIntervals/MaximumCPULoad.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/MergeIntervals/MaximumCPULoad.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/MergeIntervals/MergeIntervals.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/MergeIntervals/MergeIntervals.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/MergeIntervals/MinimumMeetingRooms$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/MergeIntervals/MinimumMeetingRooms$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/MergeIntervals/MinimumMeetingRooms$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/MergeIntervals/MinimumMeetingRooms$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/MergeIntervals/MinimumMeetingRooms$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/MergeIntervals/MinimumMeetingRooms$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/MergeIntervals/MinimumMeetingRooms$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/MergeIntervals/MinimumMeetingRooms$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/MergeIntervals/MinimumMeetingRooms$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/MergeIntervals/MinimumMeetingRooms$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/MergeIntervals/MinimumMeetingRooms.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/MergeIntervals/MinimumMeetingRooms.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/MergeIntervals/RemoveInterval.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/MergeIntervals/RemoveInterval.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Strings/_1392_RollingHash.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/Strings/_1392_RollingHash.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/TopKelements/FrequencyStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/TopKelements/FrequencyStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/TopKelements/KthSmallestElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/TopKelements/KthSmallestElement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/TopKelements/RearrangeString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/TopKelements/RearrangeString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/TopKelements/RearrangeStringKDistanceApart.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/TopKelements/RearrangeStringKDistanceApart.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/leetcode75/Arrays/ThreeSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/leetcode75/Arrays/ThreeSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/leetcode75/Arrays/TrappingRainWaterII.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/leetcode75/Arrays/TrappingRainWaterII.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/leetcode75/Arrays/TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/leetcode75/Arrays/TwoSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/leetcode75/DyanamicProgramming/HouseRobber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/leetcode75/DyanamicProgramming/HouseRobber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/leetcode75/Interval/MinMeetingRooms.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/leetcode75/Interval/MinMeetingRooms.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/leetcode75/Strings/CharacterReplacement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/leetcode75/Strings/CharacterReplacement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/leetcode75/Strings/FindAllAnagrams.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/leetcode75/Strings/FindAllAnagrams.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/leetcode75/Strings/GroupAnagrams.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/leetcode75/Strings/GroupAnagrams.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/leetcode75/Strings/LengthOfLongestSubstringKDistinct.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/leetcode75/Strings/LengthOfLongestSubstringKDistinct.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/leetcode75/Strings/LongestPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/leetcode75/Strings/LongestPalindrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/leetcode75/Strings/MinimumWindowSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/leetcode75/Strings/MinimumWindowSubstring.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/leetcode75/Strings/SubStringWithDistinctCharacter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/leetcode75/Strings/SubStringWithDistinctCharacter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/leetcode75/Strings/ValidParentheses.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/leetcode75/Strings/ValidParentheses.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/leetcode75/graphs/AlienDictionary.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/leetcode75/graphs/AlienDictionary.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/leetcode75/graphs/CloneGraph$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/leetcode75/graphs/CloneGraph$Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/leetcode75/graphs/CourseSchedule.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/leetcode75/graphs/CourseSchedule.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/leetcode75/graphs/GraphValidTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/leetcode75/graphs/GraphValidTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/leetcode75/graphs/LongestConsecutive.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/leetcode75/graphs/LongestConsecutive.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/leetcode75/graphs/NumberOfConnectedComponents.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/leetcode75/graphs/NumberOfConnectedComponents.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/leetcode75/graphs/NumberOfIslands.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/leetcode75/graphs/NumberOfIslands.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/leetcode75/graphs/PacificAtlantic.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/leetcode75/graphs/PacificAtlantic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/mock/FindDisappearedNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/mock/FindDisappearedNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/mock/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/mock/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/mock/TwoSumDuplicates.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/mock/TwoSumDuplicates.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/mock/UpdateMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/mock/UpdateMatrix.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/mock/WordPattern.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/mock/WordPattern.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/others/Azul.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/others/Azul.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/slidingwindow/CharacterReplacement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/slidingwindow/CharacterReplacement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/slidingwindow/CheckInclusion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/slidingwindow/CheckInclusion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/slidingwindow/LongestSubstringKDistinct.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/slidingwindow/LongestSubstringKDistinct.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/slidingwindow/MinimumWindowSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/slidingwindow/MinimumWindowSubstring.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/slidingwindow/NoRepeatSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/slidingwindow/NoRepeatSubstring.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/slidingwindow/StringAnagrams.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/slidingwindow/StringAnagrams.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/slidingwindow/StringPermutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/slidingwindow/StringPermutation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/slidingwindow/leetcode/MaxNumOccSubstring_5293.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/slidingwindow/leetcode/MaxNumOccSubstring_5293.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/slidingwindow/leetcode/MaxSlidingWindow_239.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/slidingwindow/leetcode/MaxSlidingWindow_239.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/slidingwindow/leetcode/MinWindow_76.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/slidingwindow/leetcode/MinWindow_76.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/subsets/GeneralizedAbbreviation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/subsets/GeneralizedAbbreviation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/subsets/Permutations.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/subsets/Permutations.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/subsets/SubsetWithDuplicates.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/subsets/SubsetWithDuplicates.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/patterns/subsets/Subsets.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/subsets/Subsets.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/algorithm/onlineassesment/amazon/CriticalConnectionsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/algorithm/onlineassesment/amazon/CriticalConnectionsTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/algorithm/onlineassesment/amazon/FavoriteGenreTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/algorithm/onlineassesment/amazon/FavoriteGenreTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/algorithm/onlineassesment/amazon/KClosestPoints.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/algorithm/onlineassesment/amazon/KClosestPoints.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/algorithm/onlineassesment/amazon/SearchSuggestionsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/algorithm/onlineassesment/amazon/SearchSuggestionsTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/algorithm/sort/InvoiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/algorithm/sort/InvoiceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/patterns/BinarySearch/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/BinarySearch/BinarySearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/patterns/DynamicProgramming/leetcode/LongestArithSeqLength_1027.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/patterns/DynamicProgramming/leetcode/LongestArithSeqLength_1027.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Graph/BFS/WordBreak$Word.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/patterns/Graph/BFS/WordBreak.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/algorithm/onlineassesment/amazon/WordBreak2Test.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -464,13 +125,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.2\plugins\maven\lib\maven3" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
@@ -484,11 +138,11 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/algorithm" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../../dev/gatling-charts-highcharts-bundle-3.3.1/user-files/simulations/computerdatabase" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../algs4/algs4" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.compiler.ScalaCompileServerForm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -504,7 +158,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RotationalCipher">
+  <component name="RunManager" selected="Application.MaximumUniqueSubarray">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -512,13 +166,13 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="AreTheyEqual" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.fb.Arrays.AreTheyEqual" />
+    <configuration name="Interpret" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.leetcode.Interpret" />
       <module name="MyProject" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.fb.Arrays.*" />
+          <option name="PATTERN" value="algorithm.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -526,13 +180,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountSubarrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.fb.Arrays.CountSubarrays" />
+    <configuration name="LongestArithSeqLength_1027" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patterns.DynamicProgramming.leetcode.LongestArithSeqLength_1027" />
       <module name="MyProject" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.fb.Arrays.*" />
+          <option name="PATTERN" value="patterns.DynamicProgramming.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -540,13 +194,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotationalCipher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.fb.Arrays.RotationalCipher" />
+    <configuration name="MaxOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.leetcode.MaxOperations" />
       <module name="MyProject" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.fb.Arrays.*" />
+          <option name="PATTERN" value="algorithm.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaximumUniqueSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.leetcode.MaximumUniqueSubarray" />
+      <module name="MyProject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithm.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveInvalidParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.backtracking.RemoveInvalidParentheses" />
+      <module name="MyProject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithm.backtracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -556,39 +238,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LeastIntervalTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="MyProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algorithm.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="algorithm.leetcode" />
-      <option name="MAIN_CLASS_NAME" value="algorithm.leetcode.LeastIntervalTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LeastIntervalTest.leastInterval" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="MyProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algorithm.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="algorithm.leetcode" />
-      <option name="MAIN_CLASS_NAME" value="algorithm.leetcode.LeastIntervalTest" />
-      <option name="METHOD_NAME" value="leastInterval" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -619,25 +268,25 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.LeastIntervalTest" />
-      <item itemvalue="JUnit.LeastIntervalTest.leastInterval" />
-      <item itemvalue="Application.AreTheyEqual" />
-      <item itemvalue="Application.CountSubarrays" />
-      <item itemvalue="Application.RotationalCipher" />
+      <item itemvalue="Application.Interpret" />
+      <item itemvalue="Application.MaxOperations" />
+      <item itemvalue="Application.LongestArithSeqLength_1027" />
+      <item itemvalue="Application.RemoveInvalidParentheses" />
+      <item itemvalue="Application.MaximumUniqueSubarray" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RotationalCipher" />
-        <item itemvalue="Application.CountSubarrays" />
-        <item itemvalue="Application.AreTheyEqual" />
-        <item itemvalue="JUnit.LeastIntervalTest.leastInterval" />
-        <item itemvalue="JUnit.LeastIntervalTest" />
+        <item itemvalue="Application.MaximumUniqueSubarray" />
+        <item itemvalue="Application.RemoveInvalidParentheses" />
+        <item itemvalue="Application.LongestArithSeqLength_1027" />
+        <item itemvalue="Application.MaxOperations" />
+        <item itemvalue="Application.Interpret" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\s.rajendiran\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -647,6 +296,14 @@
       <option name="presentableId" value="Default" />
       <updated>1515271230054</updated>
     </task>
+    <task id="LOCAL-00001" summary="Few Class">
+      <created>1601875968651</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601875968651</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -661,189 +318,9 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="442" y="117" key="#Plugins" timestamp="1600568953860">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="442" y="117" key="#Plugins/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1600568953860" />
-    <state x="2472" y="166" key="#Plugins/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1596514990988" />
-    <state x="552" y="166" key="#Plugins/0.0.1920.1050/-1920.2.1920.1050@0.0.1920.1050" timestamp="1599841008708" />
-    <state x="2642" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1598757777762">
-      <screen x="1920" y="0" width="1920" height="1050" />
-    </state>
-    <state x="2642" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1598757777762" />
-    <state x="512" y="207" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1600568779336">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="512" y="207" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1600568779336" />
-    <state x="2560" y="261" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1596514745185" />
-    <state x="732" y="287" key="FileChooserDialogImpl" timestamp="1597473298846">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="560" y="236" key="FileChooserDialogImpl/0.0.1468.864/1920.0.1920.1040@0.0.1468.864" timestamp="1594081230058" />
-    <state x="663" y="259" key="FileChooserDialogImpl/0.0.1739.947/-1920.2.1739.947@0.0.1739.947" timestamp="1595827331968" />
-    <state x="732" y="287" key="FileChooserDialogImpl/0.0.1920.1050/-1920.2.1920.1050@0.0.1920.1050" timestamp="1597473298846" />
-    <state width="1877" height="335" key="GridCell.Tab.0.bottom" timestamp="1601875266852">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="1696" height="283" key="GridCell.Tab.0.bottom/-1920.0.1739.947/-3840.0.1739.947/0.0.1739.947@-1920.0.1739.947" timestamp="1595692532434" />
-    <state width="1877" height="401" key="GridCell.Tab.0.bottom/0.0.1458.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595131007432" />
-    <state width="1877" height="175" key="GridCell.Tab.0.bottom/0.0.1468.864/1920.0.1920.1040@0.0.1468.864" timestamp="1595000420619" />
-    <state width="1877" height="346" key="GridCell.Tab.0.bottom/0.0.1468.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594962962375" />
-    <state width="1425" height="276" key="GridCell.Tab.0.bottom/0.0.1468.864@0.0.1468.864" timestamp="1593921759068" />
-    <state width="1493" height="181" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1601050510019" />
-    <state width="1877" height="180" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1601840150101" />
-    <state width="1493" height="180" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1601861549507" />
-    <state width="1696" height="283" key="GridCell.Tab.0.bottom/0.0.1739.947/-1920.2.1739.947@0.0.1739.947" timestamp="1595743454301" />
-    <state width="1696" height="272" key="GridCell.Tab.0.bottom/0.0.1739.947/1920.0.1739.947@1920.0.1739.947" timestamp="1595375379005" />
-    <state width="1696" height="355" key="GridCell.Tab.0.bottom/0.0.1739.947@0.0.1739.947" timestamp="1595228411644" />
-    <state width="1877" height="335" key="GridCell.Tab.0.bottom/0.0.1920.1050/-1920.2.1920.1050@0.0.1920.1050" timestamp="1601875266852" />
-    <state width="1799" height="415" key="GridCell.Tab.0.bottom/1920.0.1474.864/0.0.1842.1080@0.0.1842.1080" timestamp="1595142271078" />
-    <state width="1877" height="335" key="GridCell.Tab.0.center" timestamp="1601875266852">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="1696" height="283" key="GridCell.Tab.0.center/-1920.0.1739.947/-3840.0.1739.947/0.0.1739.947@-1920.0.1739.947" timestamp="1595692532433" />
-    <state width="1877" height="401" key="GridCell.Tab.0.center/0.0.1458.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595131007432" />
-    <state width="1877" height="175" key="GridCell.Tab.0.center/0.0.1468.864/1920.0.1920.1040@0.0.1468.864" timestamp="1595000420618" />
-    <state width="1877" height="346" key="GridCell.Tab.0.center/0.0.1468.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594962962375" />
-    <state width="1425" height="276" key="GridCell.Tab.0.center/0.0.1468.864@0.0.1468.864" timestamp="1593921759068" />
-    <state width="1493" height="181" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1601050510019" />
-    <state width="1877" height="180" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1601840150100" />
-    <state width="1493" height="180" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1601861549506" />
-    <state width="1696" height="283" key="GridCell.Tab.0.center/0.0.1739.947/-1920.2.1739.947@0.0.1739.947" timestamp="1595743454301" />
-    <state width="1696" height="272" key="GridCell.Tab.0.center/0.0.1739.947/1920.0.1739.947@1920.0.1739.947" timestamp="1595375379005" />
-    <state width="1696" height="355" key="GridCell.Tab.0.center/0.0.1739.947@0.0.1739.947" timestamp="1595228411644" />
-    <state width="1877" height="335" key="GridCell.Tab.0.center/0.0.1920.1050/-1920.2.1920.1050@0.0.1920.1050" timestamp="1601875266852" />
-    <state width="1799" height="415" key="GridCell.Tab.0.center/1920.0.1474.864/0.0.1842.1080@0.0.1842.1080" timestamp="1595142271078" />
-    <state width="1877" height="335" key="GridCell.Tab.0.left" timestamp="1601875266852">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="1696" height="283" key="GridCell.Tab.0.left/-1920.0.1739.947/-3840.0.1739.947/0.0.1739.947@-1920.0.1739.947" timestamp="1595692532433" />
-    <state width="1877" height="401" key="GridCell.Tab.0.left/0.0.1458.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595131007432" />
-    <state width="1877" height="175" key="GridCell.Tab.0.left/0.0.1468.864/1920.0.1920.1040@0.0.1468.864" timestamp="1595000420617" />
-    <state width="1877" height="346" key="GridCell.Tab.0.left/0.0.1468.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594962962375" />
-    <state width="1425" height="276" key="GridCell.Tab.0.left/0.0.1468.864@0.0.1468.864" timestamp="1593921759068" />
-    <state width="1493" height="181" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1601050510019" />
-    <state width="1877" height="180" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1601840150100" />
-    <state width="1493" height="180" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1601861549506" />
-    <state width="1696" height="283" key="GridCell.Tab.0.left/0.0.1739.947/-1920.2.1739.947@0.0.1739.947" timestamp="1595743454301" />
-    <state width="1696" height="272" key="GridCell.Tab.0.left/0.0.1739.947/1920.0.1739.947@1920.0.1739.947" timestamp="1595375379005" />
-    <state width="1696" height="355" key="GridCell.Tab.0.left/0.0.1739.947@0.0.1739.947" timestamp="1595228411644" />
-    <state width="1877" height="335" key="GridCell.Tab.0.left/0.0.1920.1050/-1920.2.1920.1050@0.0.1920.1050" timestamp="1601875266852" />
-    <state width="1799" height="415" key="GridCell.Tab.0.left/1920.0.1474.864/0.0.1842.1080@0.0.1842.1080" timestamp="1595142271078" />
-    <state width="1877" height="335" key="GridCell.Tab.0.right" timestamp="1601875266852">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="1696" height="283" key="GridCell.Tab.0.right/-1920.0.1739.947/-3840.0.1739.947/0.0.1739.947@-1920.0.1739.947" timestamp="1595692532434" />
-    <state width="1877" height="401" key="GridCell.Tab.0.right/0.0.1458.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595131007432" />
-    <state width="1877" height="175" key="GridCell.Tab.0.right/0.0.1468.864/1920.0.1920.1040@0.0.1468.864" timestamp="1595000420619" />
-    <state width="1877" height="346" key="GridCell.Tab.0.right/0.0.1468.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594962962375" />
-    <state width="1425" height="276" key="GridCell.Tab.0.right/0.0.1468.864@0.0.1468.864" timestamp="1593921759068" />
-    <state width="1493" height="181" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1601050510019" />
-    <state width="1877" height="180" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1601840150100" />
-    <state width="1493" height="180" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1601861549506" />
-    <state width="1696" height="283" key="GridCell.Tab.0.right/0.0.1739.947/-1920.2.1739.947@0.0.1739.947" timestamp="1595743454301" />
-    <state width="1696" height="272" key="GridCell.Tab.0.right/0.0.1739.947/1920.0.1739.947@1920.0.1739.947" timestamp="1595375379005" />
-    <state width="1696" height="355" key="GridCell.Tab.0.right/0.0.1739.947@0.0.1739.947" timestamp="1595228411644" />
-    <state width="1877" height="335" key="GridCell.Tab.0.right/0.0.1920.1050/-1920.2.1920.1050@0.0.1920.1050" timestamp="1601875266852" />
-    <state width="1799" height="415" key="GridCell.Tab.0.right/1920.0.1474.864/0.0.1842.1080@0.0.1842.1080" timestamp="1595142271078" />
-    <state width="1877" height="335" key="GridCell.Tab.1.bottom" timestamp="1601875266852">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="1696" height="272" key="GridCell.Tab.1.bottom/-1920.0.1739.947/-3840.0.1739.947/0.0.1739.947@-1920.0.1739.947" timestamp="1595689642057" />
-    <state width="1877" height="401" key="GridCell.Tab.1.bottom/0.0.1458.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595131007545" />
-    <state width="1877" height="175" key="GridCell.Tab.1.bottom/0.0.1468.864/1920.0.1920.1040@0.0.1468.864" timestamp="1595000420620" />
-    <state width="1877" height="175" key="GridCell.Tab.1.bottom/0.0.1468.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594947818184" />
-    <state width="1877" height="310" key="GridCell.Tab.1.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1596945578752" />
-    <state width="1877" height="335" key="GridCell.Tab.1.bottom/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1601840077490" />
-    <state width="1493" height="196" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1600062271052" />
-    <state width="1696" height="272" key="GridCell.Tab.1.bottom/0.0.1739.947/-1920.2.1739.947@0.0.1739.947" timestamp="1595719810370" />
-    <state width="1696" height="272" key="GridCell.Tab.1.bottom/0.0.1739.947/1920.0.1739.947@1920.0.1739.947" timestamp="1595375379005" />
-    <state width="1696" height="355" key="GridCell.Tab.1.bottom/0.0.1739.947@0.0.1739.947" timestamp="1595228411645" />
-    <state width="1877" height="335" key="GridCell.Tab.1.bottom/0.0.1920.1050/-1920.2.1920.1050@0.0.1920.1050" timestamp="1601875266852" />
-    <state width="1799" height="415" key="GridCell.Tab.1.bottom/1920.0.1474.864/0.0.1842.1080@0.0.1842.1080" timestamp="1595142271078" />
-    <state width="1877" height="335" key="GridCell.Tab.1.center" timestamp="1601875266852">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="1696" height="272" key="GridCell.Tab.1.center/-1920.0.1739.947/-3840.0.1739.947/0.0.1739.947@-1920.0.1739.947" timestamp="1595689642057" />
-    <state width="1877" height="401" key="GridCell.Tab.1.center/0.0.1458.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595131007545" />
-    <state width="1877" height="175" key="GridCell.Tab.1.center/0.0.1468.864/1920.0.1920.1040@0.0.1468.864" timestamp="1595000420620" />
-    <state width="1877" height="175" key="GridCell.Tab.1.center/0.0.1468.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594947818184" />
-    <state width="1877" height="310" key="GridCell.Tab.1.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1596945578748" />
-    <state width="1877" height="335" key="GridCell.Tab.1.center/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1601840077490" />
-    <state width="1493" height="196" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1600062271052" />
-    <state width="1696" height="272" key="GridCell.Tab.1.center/0.0.1739.947/-1920.2.1739.947@0.0.1739.947" timestamp="1595719810370" />
-    <state width="1696" height="272" key="GridCell.Tab.1.center/0.0.1739.947/1920.0.1739.947@1920.0.1739.947" timestamp="1595375379005" />
-    <state width="1696" height="355" key="GridCell.Tab.1.center/0.0.1739.947@0.0.1739.947" timestamp="1595228411644" />
-    <state width="1877" height="335" key="GridCell.Tab.1.center/0.0.1920.1050/-1920.2.1920.1050@0.0.1920.1050" timestamp="1601875266852" />
-    <state width="1799" height="415" key="GridCell.Tab.1.center/1920.0.1474.864/0.0.1842.1080@0.0.1842.1080" timestamp="1595142271078" />
-    <state width="1877" height="335" key="GridCell.Tab.1.left" timestamp="1601875266852">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="1696" height="272" key="GridCell.Tab.1.left/-1920.0.1739.947/-3840.0.1739.947/0.0.1739.947@-1920.0.1739.947" timestamp="1595689642056" />
-    <state width="1877" height="401" key="GridCell.Tab.1.left/0.0.1458.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595131007545" />
-    <state width="1877" height="175" key="GridCell.Tab.1.left/0.0.1468.864/1920.0.1920.1040@0.0.1468.864" timestamp="1595000420619" />
-    <state width="1877" height="175" key="GridCell.Tab.1.left/0.0.1468.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594947818184" />
-    <state width="1877" height="310" key="GridCell.Tab.1.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1596945578747" />
-    <state width="1877" height="335" key="GridCell.Tab.1.left/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1601840077490" />
-    <state width="1493" height="196" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1600062271052" />
-    <state width="1696" height="272" key="GridCell.Tab.1.left/0.0.1739.947/-1920.2.1739.947@0.0.1739.947" timestamp="1595719810370" />
-    <state width="1696" height="272" key="GridCell.Tab.1.left/0.0.1739.947/1920.0.1739.947@1920.0.1739.947" timestamp="1595375379005" />
-    <state width="1696" height="355" key="GridCell.Tab.1.left/0.0.1739.947@0.0.1739.947" timestamp="1595228411644" />
-    <state width="1877" height="335" key="GridCell.Tab.1.left/0.0.1920.1050/-1920.2.1920.1050@0.0.1920.1050" timestamp="1601875266852" />
-    <state width="1799" height="415" key="GridCell.Tab.1.left/1920.0.1474.864/0.0.1842.1080@0.0.1842.1080" timestamp="1595142271078" />
-    <state width="1877" height="335" key="GridCell.Tab.1.right" timestamp="1601875266852">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="1696" height="272" key="GridCell.Tab.1.right/-1920.0.1739.947/-3840.0.1739.947/0.0.1739.947@-1920.0.1739.947" timestamp="1595689642057" />
-    <state width="1877" height="401" key="GridCell.Tab.1.right/0.0.1458.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595131007545" />
-    <state width="1877" height="175" key="GridCell.Tab.1.right/0.0.1468.864/1920.0.1920.1040@0.0.1468.864" timestamp="1595000420620" />
-    <state width="1877" height="175" key="GridCell.Tab.1.right/0.0.1468.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594947818184" />
-    <state width="1877" height="310" key="GridCell.Tab.1.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1596945578750" />
-    <state width="1877" height="335" key="GridCell.Tab.1.right/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1601840077490" />
-    <state width="1493" height="196" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1600062271052" />
-    <state width="1696" height="272" key="GridCell.Tab.1.right/0.0.1739.947/-1920.2.1739.947@0.0.1739.947" timestamp="1595719810370" />
-    <state width="1696" height="272" key="GridCell.Tab.1.right/0.0.1739.947/1920.0.1739.947@1920.0.1739.947" timestamp="1595375379005" />
-    <state width="1696" height="355" key="GridCell.Tab.1.right/0.0.1739.947@0.0.1739.947" timestamp="1595228411645" />
-    <state width="1877" height="335" key="GridCell.Tab.1.right/0.0.1920.1050/-1920.2.1920.1050@0.0.1920.1050" timestamp="1601875266852" />
-    <state width="1799" height="415" key="GridCell.Tab.1.right/1920.0.1474.864/0.0.1842.1080@0.0.1842.1080" timestamp="1595142271078" />
-    <state x="402" y="162" key="SettingsEditor" timestamp="1595826405737">
-      <screen x="0" y="0" width="1739" height="947" />
-    </state>
-    <state x="402" y="162" key="SettingsEditor/0.0.1739.947/-1920.2.1739.947@0.0.1739.947" timestamp="1595826405737" />
-    <state x="92" y="92" width="1736" height="866" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1599806614356">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="92" y="92" width="1736" height="866" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1050/-1920.2.1920.1050@0.0.1920.1050" timestamp="1599806614356" />
-    <state x="723" y="358" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1601527162981">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="-1265" y="323" key="com.intellij.testIntegration.createTest.CreateTestDialog/-1920.0.1739.947/-3840.0.1739.947/0.0.1739.947@-1920.0.1739.947" timestamp="1595691059619" />
-    <state x="2643" y="355" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1468.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594946974543" />
-    <state x="553" y="295" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1468.864@0.0.1468.864" timestamp="1593919134156" />
-    <state x="2643" y="358" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1600569821530" />
-    <state x="655" y="323" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1739.947/-1920.2.1739.947@0.0.1739.947" timestamp="1595741936761" />
-    <state x="2575" y="323" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1739.947/1920.0.1739.947@1920.0.1739.947" timestamp="1595369713013" />
-    <state x="655" y="323" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1739.947@0.0.1739.947" timestamp="1595227664125" />
-    <state x="723" y="358" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1050/-1920.2.1920.1050@0.0.1920.1050" timestamp="1601527162981" />
-    <state x="667" y="81" width="585" height="888" key="find.popup" timestamp="1601175133815">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="667" y="81" width="585" height="888" key="find.popup/0.0.1920.1050/-1920.2.1920.1050@0.0.1920.1050" timestamp="1601175133815" />
-    <state x="342" y="186" key="new project wizard" timestamp="1597473321099">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="342" y="186" key="new project wizard/0.0.1920.1050/-1920.2.1920.1050@0.0.1920.1050" timestamp="1597473321099" />
-    <state x="616" y="243" key="run.anything.popup" timestamp="1599752192292">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="616" y="243" key="run.anything.popup/0.0.1920.1050/-1920.2.1920.1050@0.0.1920.1050" timestamp="1599752192292" />
-    <state x="2532" y="228" width="879" height="661" key="search.everywhere.popup" timestamp="1600570066006">
-      <screen x="1920" y="0" width="1920" height="1050" />
-    </state>
-    <state x="2532" y="226" width="879" height="654" key="search.everywhere.popup/0.0.1468.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594942135778" />
-    <state x="468" y="188" width="672" height="543" key="search.everywhere.popup/0.0.1468.864@0.0.1468.864" timestamp="1593921520436" />
-    <state x="2532" y="228" width="879" height="661" key="search.everywhere.popup/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1600570066006" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Few Class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Few Class" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1143,6 +620,187 @@
           <line>12</line>
           <option name="timeStamp" value="120" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/algorithm/fb/greedy/FindMinArray.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/patterns/calculator/BasicCalculatorII.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/patterns/calculator/BasicCalculatorII.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/patterns/calculator/BasicCalculatorII.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/patterns/calculator/BasicCalculator.java</url>
+          <line>141</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/patterns/calculator/BasicCalculator.java</url>
+          <line>126</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/patterns/calculator/BasicCalculator.java</url>
+          <line>158</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/patterns/calculator/BasicCalculator.java</url>
+          <line>131</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/patterns/calculator/BasicCalculator.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/patterns/calculator/BasicCalculator.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/patterns/calculator/BasicCalculatorIII.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/patterns/Graph/TopologigalSort/CourseScheduleII.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/patterns/MergeIntervals/MeetingScheduler.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/patterns/BinarySearch/FindFirstLastPositionSortedArray.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/patterns/BinarySearch/FindFirstLastPositionSortedArray.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/algorithm/leetcode/MinDeletions.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/algorithm/leetcode/GetMaximumGenerated.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/algorithm/leetcode/GetMaximumGenerated.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/algorithm/leetcode/PerfectCity.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/algorithm/leetcode/MinOperationsV1.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/algorithm/leetcode/MinimumEffort.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/algorithm/leetcode/PhoneCalls.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/algorithm/leetcode/TestEditor.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/algorithm/leetcode/DecodeString.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/algorithm/leetcode/RotateMatrix.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/algorithm/leetcode/PrefixPalindrome.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/algorithm/leetcode/BeautyMatrix.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/algorithm/Codesignal/RotateImage.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/algorithm/Codesignal/RotateImage.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/algorithm/leetcode/MostCompetitive.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/algorithm/leetcode/MostCompetitive.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/algorithm/leetcode/MostCompetitive.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/patterns/DynamicProgramming/leetcode/LongestArithSeqLength_1027.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="173" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/algorithm/leetcode/CanMakePalindrome.java</url>
+          <line>43</line>
+          <properties class="algorithm.leetcode.CanMakePalindrome" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/algorithm/Codesignal/RotateImage.java</url>
+          <line>3</line>
+          <properties class="algorithm.Codesignal.RotateImage" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -1151,7 +809,8 @@
         <watch expression="top.num" />
       </configuration>
       <configuration name="Application">
-        <watch expression="nums1[i]*nums1[j]" />
+        <watch expression=" matrix[i][j]" />
+        <watch expression="result[newi][newj]" />
       </configuration>
     </watches-manager>
   </component>

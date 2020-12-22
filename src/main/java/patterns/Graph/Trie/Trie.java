@@ -2,7 +2,7 @@ package patterns.Graph.Trie;
 
 import java.util.*;
 
-public class Trie {
+public class  Trie {
     class TrieNode{
         Boolean endOfWord;
         Map<Character, TrieNode> children;
